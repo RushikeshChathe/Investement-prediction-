@@ -13,10 +13,9 @@
 
 ## System Description and Functions
 **Screenshots:** <br/>
-<img src="https://github.com/kaushikjadhav01/Stock-Market-Prediction-Web-App-using-Machine-Learning-And-Sentiment-Analysis/blob/master/screenshots/banner.png">
-<img src="https://github.com/kaushikjadhav01/Stock-Market-Prediction-Web-App-using-Machine-Learning-And-Sentiment-Analysis/blob/master/screenshots/banner2.PNG">
-<img src="https://github.com/kaushikjadhav01/Stock-Market-Prediction-Web-App-using-Machine-Learning-And-Sentiment-Analysis/blob/master/screenshots/11-resuts.png" width="750">
-<img src="https://github.com/kaushikjadhav01/Stock-Market-Prediction-Web-App-using-Machine-Learning-And-Sentiment-Analysis/blob/master/screenshots/wp-admin.PNG" width="750">
+https://github.com/RushikeshChathe/Investement-prediction-/blob/main/screenshots/banner.png
+https://github.com/RushikeshChathe/Investement-prediction-/blob/main/screenshots/banner2.PNG
+https://github.com/RushikeshChathe/Investement-prediction-/blob/main/screenshots/11-resuts.png
 
 **Admin Creds:** <br/>
 Username: admin <br/>
