@@ -76,4 +76,4 @@ Admin can:<br/>
 5. Run ```python main.py``` to start server.
 7. Go to ```localhost/wordpress``` to access the app.
 
-Find more screenshots in the <b>screenshots folder</b> Or <a href=
+Find more screenshots in the <b>screenshots folder</b> Or <a href=https://github.com/RushikeshChathe/Investement-prediction-/tree/main/screenshots
